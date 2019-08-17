@@ -1,0 +1,13 @@
+body {
+	font-family: 'Spectral', serif;
+}
+
+.navbar .navbar-brand {
+	color: #4C3671;
+}
+
+.list-group .active {
+	background-color: #DFF0D9;
+	color: #3E753F;
+	border-color: #D4D4D4;
+}
